@@ -1,0 +1,120 @@
+CSSShort Documentation
+=======================
+
+Welcome to the documentation for CSSShort. Below you'll find a list of available CSS classes provided by the package, along with their descriptions and usage examples.
+
+Flex Classes
+-------------
+1. .fcc
+   Description: Flex container, column direction, center content
+   Example Usage: <div class="fcc">...</div>
+
+2. .fcb
+   Description: Flex container, column direction, space-between content
+   Example Usage: <div class="fcb">...</div>
+
+3. .fcr
+   Description: Flex container, column direction, end-aligned content
+   Example Usage: <div class="fcr">...</div>
+
+4. .frc
+   Description: Flex container, row direction, center content
+   Example Usage: <div class="frc">...</div>
+
+5. .frb
+   Description: Flex container, row direction, space-between content
+   Example Usage: <div class="frb">...</div>
+
+6. .fre
+   Description: Flex container, row direction, end-aligned content
+   Example Usage: <div class="fre">...</div>
+
+7. .fccr
+   Description: Flex container, column direction, wrap, center content
+   Example Usage: <div class="fccr">...</div>
+
+8. .fcrb
+   Description: Flex container, column direction, wrap, end-aligned content
+   Example Usage: <div class="fcrb">...</div>
+
+9. .fw
+   Description: Flex container, wrap, center content
+   Example Usage: <div class="fw">...</div>
+
+10. .fwn
+    Description: Flex container, nowrap, center content
+    Example Usage: <div class="fwn">...</div>
+
+11. .align-c
+    Description: Align items center
+    Example Usage: <div class="align-c">...</div>
+
+12. .align-s
+    Description: Align items start
+    Example Usage: <div class="align-s">...</div>
+
+13. .align-e
+    Description: Align items end
+    Example Usage: <div class="align-e">...</div>
+
+14. .align-b
+    Description: Align items baseline
+    Example Usage: <div class="align-b">...</div>
+
+15. .just-c
+    Description: Justify content center
+    Example Usage: <div class="just-c">...</div>
+
+16. .just-s
+    Description: Justify content start
+    Example Usage: <div class="just-s">...</div>
+
+17. .just-e
+    Description: Justify content end
+    Example Usage: <div class="just-e">...</div>
+
+18. .just-b
+    Description: Justify content space-between
+    Example Usage: <div class="just-b">...</div>
+
+19. .just-a
+    Description: Justify content space-around
+    Example Usage: <div class="just-a">...</div>
+
+Card Classes
+-------------
+1. .card
+   Description: Standard card style with padding and basic styling
+   Example Usage: <div class="card">...</div>
+
+2. .carddark
+   Description: Dark-themed card style with padding and dark background
+   Example Usage: <div class="carddark">...</div>
+
+Faded Effect Classes
+----------------------
+1. .fade-effect1
+   Description: Faded radial gradient effect
+   Example Usage: <div class="fade-effect1">...</div>
+
+2. .fade-effect2
+   Description: Faded linear gradient effect from left
+   Example Usage: <div class="fade-effect2">...</div>
+
+3. .fade-effect3
+   Description: Faded linear gradient effect from top
+   Example Usage: <div class="fade-effect3">...</div>
+
+4. .fade-effect4
+   Description: Faded radial gradient effect with 70% center
+   Example Usage: <div class="fade-effect4">...</div>
+
+5. .fade-effect5
+   Description: Faded gradient effect from black to transparent
+   Example Usage: <div class="fade-effect5">...</div>
+
+6. .fade-effect6
+   Description: Faded gradient effect from black to white with opacity
+   Example Usage: <div class="fade-effect6">...</div>
+
+For more details, visit the [CSSShort GitHub repository](https://github.com/your-username/your-repo).
